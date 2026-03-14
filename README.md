@@ -7,7 +7,7 @@ My name is Osasere Asemota i am a CIS: Information Tech major, Github is really 
 + ⛽ Anime recommendations: DandaDan, One Piece, JJK
 
 ![](Dandadan_GIF.gif)
-
+![](Learn_The_More_You_Know.gif)
 
 <!--
 **osasereasemota99-design/osasereasemota99-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
