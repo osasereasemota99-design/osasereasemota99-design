@@ -6,7 +6,8 @@ My name is Osasere Asemota i am a CIS: Information Tech major, Github is really 
 + 🎵 Music recommendations: Isiah Falls, Smino, Samara Cyn
 + ⛽ Anime recommendations: DandaDan, One Piece, JJK
 
-![](Dandadan_GIF.gif)
+![](DandadanGIF.gif)
+
 
 <!--
 **osasereasemota99-design/osasereasemota99-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
