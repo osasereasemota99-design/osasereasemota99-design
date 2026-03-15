@@ -5,6 +5,8 @@ My name is Osasere Asemota i am a CIS: Information Tech major, Github is really 
 + 🛜 Networking
 + 🎵 Music recommendations: Isiah Falls, Smino, Samara Cyn
 + ⛽ Anime recommendations: DandaDan, One Piece, JJK
+  portfolio rough draft: https://docs.google.com/document/d/1tSkwuOQeFCHXViv0gZIPV1w4bcLMkuoI5lz7V4aOhFE/edit?tab=t.0
+  
 
 ![](Dandadan_GIF.gif)
 ![](Learn_The_More_You_Know.gif)
